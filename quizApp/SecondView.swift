@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//this is a comment
 struct SecondView: View {
     @State private var textTitle = ""
     var body: some View {
